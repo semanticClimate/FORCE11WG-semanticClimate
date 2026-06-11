@@ -1,6 +1,6 @@
-# FORCE11TG-semanticClimate | 2026
+# FORCE11WG-semanticClimate | 2026
 
-### [Visit the FORCE11 Task Group page](https://force11.org/group/semanticclimate-open-tools-for-knowledge-extraction-from-scholarly-publications/)
+### [Visit the FORCE11 Working Group page](https://force11.org/group/semanticclimate-open-tools-for-knowledge-extraction-from-scholarly-publications/)
 
 ## semanticClimate: Open Tools for Knowledge Extraction from Scholarly Publications
 
@@ -61,7 +61,7 @@ This project explores and develops workflows using:
 If you use materials from this repository, please cite the project and acknowledge the FORCE11 Task Group.
 
 ### Related Resources
-- [FORCE11 Task Group Page](https://force11.org/group/semanticclimate-open-tools-for-knowledge-extraction-from-scholarly-publications/)
+- [FORCE11 Working Group Page](https://force11.org/group/semanticclimate-open-tools-for-knowledge-extraction-from-scholarly-publications/)
 - [semanticClimate resources](https://semanticclimate.github.io/p/en/posts/resources/)
 - [semanticClimate GitHub](https://github.com/semanticClimate)
 
