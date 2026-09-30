@@ -10,5 +10,5 @@ This should help me identify the most relevant problems and challenges to focus 
 
 29 Sep 2026
 
-- Finished reading the remaing research paper
+- Finished reading the remaining research paper [Unlocking Multimodal Document Intelligence](https://www.alphaxiv.org/pdf/2602.19961)
 - Worked on spatial page map to allow user to have flexiblity in generating the json file
